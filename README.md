@@ -6,3 +6,6 @@
 * **Sébastien Place** - *Meh* - [SebbyBe](https://github.com/SebbyBe)
 * **Gilles Renson** - *Leave Gilles alone!!*- [ligzor](https://github.com/ligzor)
 * **Kyrill Tircher** - *Ayyy Lmao* - [kykysenpai](https://github.com/kykysenpai)
+
+## References
+http://csharp.net-informations.com/communications/csharp-communications-tutorial.htm
